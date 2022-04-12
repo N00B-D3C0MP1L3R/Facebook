@@ -1,4 +1,6 @@
 # Facebook
+  **Sebuah script untuk mengomentari dan menyukai postingan yang melewati beranda Facebook anda untuk cara menggunakannya :** 
+# Command :
     $ pkg update && upgrade
     $ pkg install python
     $ pkg install git
